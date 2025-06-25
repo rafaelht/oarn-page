@@ -1,4 +1,4 @@
-# Oscar A. Renta Negrón - Website Moderno
+# Oscar A. Renta Negrón - Website Moderno (DEMO)
 
 Una versión moderna y mejorada del sitio web de Oscar A. Renta Negrón, empresa líder en representación farmacéutica en República Dominicana.
 
